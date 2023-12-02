@@ -1,16 +1,22 @@
-### Hello World 
+# GrvExplorer ( ❤️ )
 
-<!--
-**Gaurav-Advocate/Gaurav-Advocate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GrvExplorer](https://github-readme-stats.vercel.app/api?username=GrvExplorer&show_icons=true&theme=synthwave)  
+<!-- radical  -->
 
-Here are some ideas to get you started:
+<!-- when dark theme or light theme  -->
+<!-- <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=GrvExplorer&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=GrvExplorer&show_icons=true&theme=light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=GrvExplorer&show_icons=true&title_color=ff0000" />
+</picture> -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Working On ( 🧐 )
+<br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GrvExplorer&repo=5_React_Hard_Project)](https://github.com/GrvExplorer/5_React_Hard_Project)
