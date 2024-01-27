@@ -1,7 +1,10 @@
-# GrvExplorer ( ❤️ )
+# Hey 👋, I'm Gaurav Verma ( ❤️ ) 
 
-![GrvExplorer](https://github-readme-stats.vercel.app/api?username=GrvExplorer&show_icons=true&theme=synthwave)
+<!-- ![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrvExplorer&theme=dark&border_color=555&border_radius=15px&show_icons=true&icon_color=180&count_private=true) -->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrvExplorer&theme=dark&border_color=555&border_radius=15px&card_width=445px&layout=compact)
+
+<img src="https://myreadme.vercel.app/api/embed/GrvExplorer?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 <!-- radical  -->
 
 <!-- when dark theme or light theme  -->
@@ -34,6 +37,7 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="react" width="40" height="40"/> </a> 
  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/WHtfnXT/icons8-express-js-64.png" alt="react" width="40" height="40"/> </a> 
+<a href="https://framer.com" target="_blank" rel="noreferrer"> <img src="./assets/framer-motion.svg" alt="framer motion" width="40" height="40"/></a> 
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="react" width="40" height="40"/> </a> 
 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
