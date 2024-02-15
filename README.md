@@ -1,4 +1,4 @@
-# Hey 👋, I'm Gaurav Verma ( ❤️ ) 
+# Hey 👋, I'm Gaurav Verma ( ❤️ )
 
 <!-- ![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrvExplorer&theme=dark&border_color=555&border_radius=15px&show_icons=true&icon_color=180&count_private=true) -->
 
@@ -22,7 +22,7 @@
 
 # 🕸️ Languages and Tools
 
-<hr>
+
 <!-- Language -->
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -38,13 +38,35 @@
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="react" width="40" height="40"/> </a> 
  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/WHtfnXT/icons8-express-js-64.png" alt="react" width="40" height="40"/> </a> 
 <a href="https://framer.com" target="_blank" rel="noreferrer"> <img src="./assets/framer-motion.svg" alt="framer motion" width="40" height="40"/></a> 
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="react" width="40" height="40"/> </a> 
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="react" width="40" height="40"/> </a>
 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <!-- Little Use -->
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
- <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+
+# Contact Me:
+
+<p >
+<a href="https://mailto:GrvExplorer@oulook.com" target="_blank" rel="noreferrer"  style='display: flex; align-items: center; gap: 12px;
+' >
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" height='28' />
+GrvExplorer@oulook.com
+ </a>
+
+<a href="https://linkedin.com/in/grvexplorer" target="_blank" rel="noreferrer"  style='display: flex; align-items: center; gap: 12px;
+' >
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height='28' />
+GrvExplorer@linkedIn.com
+ </a>
+
+<a href="https://replit.com/@GrvExplorer" target="_blank" rel="noreferrer"  style='display: flex; align-items: center; gap: 12px;
+' >
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/New_Replit_Logo.svg" height='32' />
+GrvExplorer@replit.com
+ </a>
+</p>
