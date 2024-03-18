@@ -51,22 +51,29 @@
 
 # Contact Me:
 
-<p >
+<p>
 <a href="https://mailto:GrvExplorer@oulook.com" target="_blank" rel="noreferrer"  style='display: flex; align-items: center; gap: 12px;
 ' >
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" height='28' />
-GrvExplorer@oulook.com
+@oulook.com
  </a>
 
 <a href="https://linkedin.com/in/grvexplorer" target="_blank" rel="noreferrer"  style='display: flex; align-items: center; gap: 12px;
 ' >
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height='28' />
-GrvExplorer@linkedIn.com
+@linkedIn
  </a>
 
 <a href="https://replit.com/@GrvExplorer" target="_blank" rel="noreferrer"  style='display: flex; align-items: center; gap: 12px;
 ' >
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/New_Replit_Logo.svg" height='32' />
-GrvExplorer@replit.com
+@replit.com
  </a>
+ 
+<a href="https://twitter.com/GrvExplorer" target="_blank" rel="noreferrer"  style='display: flex; align-items: center; gap: 12px;
+' >
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" height='28' />
+@twitter.com
+ </a>
+ 
 </p>
