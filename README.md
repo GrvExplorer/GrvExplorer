@@ -49,9 +49,17 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 
-# Contact Me:
+<div style="display: flex; justify-content: space-between; ">
 
-<p>
+# Contact Me: 
+
+# TODO:
+
+</div>
+
+<div style="display: flex; align-items: start; justify-content: space-between;">
+
+<div> <p>
 <a href="https://mailto:GrvExplorer@oulook.com" target="_blank" rel="noreferrer"  style='display: flex; align-items: center; gap: 12px;
 ' >
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" height='28' />
@@ -69,7 +77,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/New_Replit_Logo.svg" height='32' />
 @replit.com
  </a>
- 
+
 <a href="https://twitter.com/GrvExplorer" target="_blank" rel="noreferrer"  style='display: flex; align-items: center; gap: 12px;
 ' >
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" height='28' />
@@ -77,3 +85,18 @@
  </a>
  
 </p>
+</div>
+
+<div>
+
+| Functionality | Projects |  Link | 
+| ---     | ---   |  --- | 
+| Render on demand | Job Portal | [Project](https://youtube.com/watch?v=mQnWCmVErnw&list=PLJ2xcbfRupEjkCESVxcDcnMEXkHSHY3Ip), [Functionality]()
+| Next Middleware | Snake Case | [Project](), [Functionality]()
+| next-auth.js | Icons Packs MP | [Project](), [Functionality]()
+| UserContentManagement | Threads | [Project](), [Functionality]()
+| 🎉🎉🎉 | 🎉🎉🎉 | 🎉🎉🎉 |
+
+</div>
+
+</div>
