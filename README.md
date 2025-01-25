@@ -3,8 +3,6 @@
 <!-- ![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrvExplorer&theme=dark&border_color=555&border_radius=15px&show_icons=true&icon_color=180&count_private=true) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrvExplorer&theme=dark&border_color=555&border_radius=15px&card_width=445px&layout=compact)
-
-<img src="https://myreadme.vercel.app/api/embed/GrvExplorer?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 <!-- radical  -->
 
 <!-- when dark theme or light theme  -->
@@ -49,28 +47,6 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 
-# TODO:
-
-| Functionality         | Projects       | Link                                                                                                          |
-| --------------------- | -------------- | ------------------------------------------------------------------------------------------------------------- |
-| Render on demand      | Job Portal     | [Project](https://youtube.com/watch?v=mQnWCmVErnw&list=PLJ2xcbfRupEjkCESVxcDcnMEXkHSHY3Ip), [Functionality]() |
-| next-auth.js          | Icons Packs MP | [Project](), [Functionality]()                                                                                |
-| UserContentManagement | Threads        | [Project](), [Functionality]()                                                                                |
-| Responsiveness        |                | [Project](), [Functionality](https://github.com/joschan21/casecobra)                                          |
-
-# Left Part in projects:
-
-| Project Name |
-| ------------ |
-| CaseCobra |
-| 3D POrtfolio |
-| Youtube 2.0 |
-| Instagram 2.0 |
-| Memories |
-
-
-
-</div>
 
 # Contact Me:
 
